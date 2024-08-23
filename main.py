@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+print("The user entered the following:", name)
+droids = input("Enter a number of droids: ")
+wookiees = input("Enter a number of wookies: ")
+print(name, "wants to meet", droids, "droids ands",wookiees,"Wookiees!")
